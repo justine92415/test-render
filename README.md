@@ -5,6 +5,7 @@
 - 使用 Node.js 原生 HTTP 模組建立 API 伺服器
 - 使用 TypeORM 操作 PostgreSQL 資料庫
 - 支援 API CRUD 操作
+- 測試
 
 ## 開發指令
 
